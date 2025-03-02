@@ -1,5 +1,5 @@
-# requirements.txt
 opencv-python
 ultralytics
-torch
-torchvision
+filterpy
+numpy
+pyyaml
